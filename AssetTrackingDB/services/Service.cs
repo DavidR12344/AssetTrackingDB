@@ -309,6 +309,10 @@ namespace AssetTrackingDB.services
             }
         }
 
+        /// <summary>
+        /// A method to delete an electronic by id
+        /// </summary>
+
         public void Delete()
         {
             Console.Write("Enter order ID to delete: ");

@@ -252,6 +252,7 @@ C:\Users\david\Documents\AssetTrackingDB\AssetTrackingDB\obj\Debug\net8.0\AssetT
 C:\Users\david\Documents\AssetTrackingDB\AssetTrackingDB\obj\Debug\net8.0\AssetTrackingDB.AssemblyInfoInputs.cache
 C:\Users\david\Documents\AssetTrackingDB\AssetTrackingDB\obj\Debug\net8.0\AssetTrackingDB.AssemblyInfo.cs
 C:\Users\david\Documents\AssetTrackingDB\AssetTrackingDB\obj\Debug\net8.0\AssetTrackingDB.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\AssetTrackingDB\AssetTrackingDB\obj\Debug\net8.0\AssetTrackingDB.sourcelink.json
 C:\Users\david\Documents\AssetTrackingDB\AssetTrackingDB\obj\Debug\net8.0\AssetTra.5F93154A.Up2Date
 C:\Users\david\Documents\AssetTrackingDB\AssetTrackingDB\obj\Debug\net8.0\AssetTrackingDB.dll
 C:\Users\david\Documents\AssetTrackingDB\AssetTrackingDB\obj\Debug\net8.0\refint\AssetTrackingDB.dll

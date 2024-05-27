@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\david\\Documents\\AssetTrackingDB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54FD4861-1C1F-4C2F-98AB-B01D45D566DC}|AssetTrackingDB\\AssetTrackingDB.csproj|c:\\users\\david\\documents\\assettrackingdb\\assettrackingdb\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54FD4861-1C1F-4C2F-98AB-B01D45D566DC}|AssetTrackingDB\\AssetTrackingDB.csproj|solutionrelative:assettrackingdb\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54FD4861-1C1F-4C2F-98AB-B01D45D566DC}|AssetTrackingDB\\AssetTrackingDB.csproj|c:\\users\\david\\documents\\assettrackingdb\\assettrackingdb\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FD4861-1C1F-4C2F-98AB-B01D45D566DC}|AssetTrackingDB\\AssetTrackingDB.csproj|solutionrelative:assettrackingdb\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54FD4861-1C1F-4C2F-98AB-B01D45D566DC}|AssetTrackingDB\\AssetTrackingDB.csproj|c:\\users\\david\\documents\\assettrackingdb\\assettrackingdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54FD4861-1C1F-4C2F-98AB-B01D45D566DC}|AssetTrackingDB\\AssetTrackingDB.csproj|solutionrelative:assettrackingdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54FD4861-1C1F-4C2F-98AB-B01D45D566DC}|AssetTrackingDB\\AssetTrackingDB.csproj|c:\\users\\david\\documents\\assettrackingdb\\assettrackingdb\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54FD4861-1C1F-4C2F-98AB-B01D45D566DC}|AssetTrackingDB\\AssetTrackingDB.csproj|solutionrelative:assettrackingdb\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54FD4861-1C1F-4C2F-98AB-B01D45D566DC}|AssetTrackingDB\\AssetTrackingDB.csproj|c:\\users\\david\\documents\\assettrackingdb\\assettrackingdb\\interfaces\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54FD4861-1C1F-4C2F-98AB-B01D45D566DC}|AssetTrackingDB\\AssetTrackingDB.csproj|solutionrelative:assettrackingdb\\interfaces\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54FD4861-1C1F-4C2F-98AB-B01D45D566DC}|AssetTrackingDB\\AssetTrackingDB.csproj|c:\\users\\david\\documents\\assettrackingdb\\assettrackingdb\\models\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FD4861-1C1F-4C2F-98AB-B01D45D566DC}|AssetTrackingDB\\AssetTrackingDB.csproj|solutionrelative:assettrackingdb\\models\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54FD4861-1C1F-4C2F-98AB-B01D45D566DC}|AssetTrackingDB\\AssetTrackingDB.csproj|c:\\users\\david\\documents\\assettrackingdb\\assettrackingdb\\models\\electronic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54FD4861-1C1F-4C2F-98AB-B01D45D566DC}|AssetTrackingDB\\AssetTrackingDB.csproj|solutionrelative:assettrackingdb\\models\\electronic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54FD4861-1C1F-4C2F-98AB-B01D45D566DC}|AssetTrackingDB\\AssetTrackingDB.csproj|c:\\users\\david\\documents\\assettrackingdb\\assettrackingdb\\models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54FD4861-1C1F-4C2F-98AB-B01D45D566DC}|AssetTrackingDB\\AssetTrackingDB.csproj|solutionrelative:assettrackingdb\\models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54FD4861-1C1F-4C2F-98AB-B01D45D566DC}|AssetTrackingDB\\AssetTrackingDB.csproj|c:\\users\\david\\documents\\assettrackingdb\\assettrackingdb\\models\\office.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54FD4861-1C1F-4C2F-98AB-B01D45D566DC}|AssetTrackingDB\\AssetTrackingDB.csproj|solutionrelative:assettrackingdb\\models\\office.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,85 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Office.cs",
-              "DocumentMoniker": "C:\\Users\\david\\Documents\\AssetTrackingDB\\AssetTrackingDB\\models\\Office.cs",
-              "RelativeDocumentMoniker": "AssetTrackingDB\\models\\Office.cs",
-              "ToolTip": "C:\\Users\\david\\Documents\\AssetTrackingDB\\AssetTrackingDB\\models\\Office.cs",
-              "RelativeToolTip": "AssetTrackingDB\\models\\Office.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T11:11:47.917Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Computer.cs",
-              "DocumentMoniker": "C:\\Users\\david\\Documents\\AssetTrackingDB\\AssetTrackingDB\\models\\Computer.cs",
-              "RelativeDocumentMoniker": "AssetTrackingDB\\models\\Computer.cs",
-              "ToolTip": "C:\\Users\\david\\Documents\\AssetTrackingDB\\AssetTrackingDB\\models\\Computer.cs",
-              "RelativeToolTip": "AssetTrackingDB\\models\\Computer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T08:28:34.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Electronic.cs",
               "DocumentMoniker": "C:\\Users\\david\\Documents\\AssetTrackingDB\\AssetTrackingDB\\models\\Electronic.cs",
               "RelativeDocumentMoniker": "AssetTrackingDB\\models\\Electronic.cs",
               "ToolTip": "C:\\Users\\david\\Documents\\AssetTrackingDB\\AssetTrackingDB\\models\\Electronic.cs",
               "RelativeToolTip": "AssetTrackingDB\\models\\Electronic.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAA9wDUAAAAJAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwEAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T06:55:00.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\david\\Documents\\AssetTrackingDB\\AssetTrackingDB\\services\\Service.cs",
-              "RelativeDocumentMoniker": "AssetTrackingDB\\services\\Service.cs",
-              "ToolTip": "C:\\Users\\david\\Documents\\AssetTrackingDB\\AssetTrackingDB\\services\\Service.cs",
-              "RelativeToolTip": "AssetTrackingDB\\services\\Service.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T06:23:10.478Z",
+              "WhenOpened": "2024-05-27T09:13:44.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IOrder.cs",
-              "DocumentMoniker": "C:\\Users\\david\\Documents\\AssetTrackingDB\\AssetTrackingDB\\interfaces\\IOrder.cs",
-              "RelativeDocumentMoniker": "AssetTrackingDB\\interfaces\\IOrder.cs",
-              "ToolTip": "C:\\Users\\david\\Documents\\AssetTrackingDB\\AssetTrackingDB\\interfaces\\IOrder.cs",
-              "RelativeToolTip": "AssetTrackingDB\\interfaces\\IOrder.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "DocumentIndex": 2,
+              "Title": "Mobile.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Documents\\AssetTrackingDB\\AssetTrackingDB\\models\\Mobile.cs",
+              "RelativeDocumentMoniker": "AssetTrackingDB\\models\\Mobile.cs",
+              "ToolTip": "C:\\Users\\david\\Documents\\AssetTrackingDB\\AssetTrackingDB\\models\\Mobile.cs",
+              "RelativeToolTip": "AssetTrackingDB\\models\\Mobile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T06:19:23.136Z"
+              "WhenOpened": "2024-05-27T09:13:45.1Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MyDBContext.cs",
               "DocumentMoniker": "C:\\Users\\david\\Documents\\AssetTrackingDB\\AssetTrackingDB\\MyDBContext.cs",
               "RelativeDocumentMoniker": "AssetTrackingDB\\MyDBContext.cs",
               "ToolTip": "C:\\Users\\david\\Documents\\AssetTrackingDB\\AssetTrackingDB\\MyDBContext.cs",
               "RelativeToolTip": "AssetTrackingDB\\MyDBContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwEMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T06:14:44.566Z"
+              "WhenOpened": "2024-05-22T06:14:44.566Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -126,9 +79,10 @@
               "RelativeDocumentMoniker": "AssetTrackingDB\\Program.cs",
               "ToolTip": "C:\\Users\\david\\Documents\\AssetTrackingDB\\AssetTrackingDB\\Program.cs",
               "RelativeToolTip": "AssetTrackingDB\\Program.cs",
-              "ViewState": "AQIAAIUAAAAAAAAAAAAYwK8AAAAiAAAA",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAgwMgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T06:07:00.471Z"
+              "WhenOpened": "2024-05-22T06:07:00.471Z",
+              "EditorCaption": ""
             }
           ]
         }

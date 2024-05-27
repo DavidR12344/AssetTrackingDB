@@ -11,11 +11,13 @@ namespace AssetTrackingDB.interfaces
         //Method to add new Electronics to list
         void Create(string officeName, string type, string brand, string model, string date, int price, string currency, string localPriceToday);
 
-        //Method to view all electronic in list
+        //Method to view all electronic in database
         void Read();
 
+        //Method to update an electronic in database by id
         void Update();
 
+        //Method to delete an electronic in database by id
         void Delete();
 
         //Method to sort by type computer first and then phone

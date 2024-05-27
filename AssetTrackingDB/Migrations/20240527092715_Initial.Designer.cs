@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AssetTrackingDB.Migrations
 {
     [DbContext(typeof(MyDBContext))]
-    [Migration("20240522065936_initial")]
-    partial class initial
+    [Migration("20240527092715_Initial")]
+    partial class Initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -40,6 +40,11 @@ namespace AssetTrackingDB.Migrations
                     b.Property<string>("Currency")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Discriminator")
+                        .IsRequired()
+                        .HasMaxLength(13)
+                        .HasColumnType("nvarchar(13)");
 
                     b.Property<DateTime>("EndOfLife")
                         .HasColumnType("datetime2");
@@ -70,6 +75,24 @@ namespace AssetTrackingDB.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("electronicsDB");
+
+                    b.HasDiscriminator<string>("Discriminator").HasValue("Electronic");
+
+                    b.UseTphMappingStrategy();
+                });
+
+            modelBuilder.Entity("AssetTrackingDB.models.Computer", b =>
+                {
+                    b.HasBaseType("AssetTrackingDB.models.Electronic");
+
+                    b.HasDiscriminator().HasValue("Computer");
+                });
+
+            modelBuilder.Entity("AssetTrackingDB.models.Mobile", b =>
+                {
+                    b.HasBaseType("AssetTrackingDB.models.Electronic");
+
+                    b.HasDiscriminator().HasValue("Mobile");
                 });
 #pragma warning restore 612, 618
         }

@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace AssetTrackingDB.Migrations
 {
     /// <inheritdoc />
-    public partial class initial : Migration
+    public partial class Initial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -25,6 +25,7 @@ namespace AssetTrackingDB.Migrations
                     Currency = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     LocalPriceToday = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     EndOfLife = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    Discriminator = table.Column<string>(type: "nvarchar(13)", maxLength: 13, nullable: false),
                     OfficeName = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
